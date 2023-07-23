@@ -15,3 +15,4 @@ RecyclerView is not a direct replacement and works differently than ListActivity
 This program lists some rows, and demonstrate how to swipe and delete a row.
 
 
+![screenshot](https://github.com/alexcmak/SwipeDeleteDemo/blob/main/swipe_right.png)
